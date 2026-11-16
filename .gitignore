@@ -1,0 +1,39 @@
+.venv/
+.venv.windows/
+__pycache__/
+*.py[cod]
+.idea/
+*.iml
+.ipynb_checkpoints/
+*.tmp
+*.swp
+*~
+.env
+.env.*
+!.env.example
+
+# Local credentials and agent configuration
+.aws/
+.ssh/
+.codex/
+.agents/
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa*
+id_ed25519*
+credentials.json
+secrets.json
+
+# Local data, models, results and supporting documentation
+/data/
+/docs/
+/AGENTS.md
+
+# Tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
