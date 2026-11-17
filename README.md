@@ -131,3 +131,10 @@ large language models*. Scientometrics, 130, 5143–5169.
 [Preprint de acesso aberto](https://arxiv.org/abs/2503.01189).
 
 Ao utilizar o método ou os dados dos autores, cite o artigo acima.
+
+## Licença
+
+O código original deste projeto é distribuído sob a [licença MIT](LICENSE).
+O artigo, os dados dos autores e as dependências de terceiros não são
+relicenciados por este projeto; seu uso deve respeitar as respectivas licenças
+e condições de utilização. A citação do artigo não substitui essas condições.
